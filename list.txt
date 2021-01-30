@@ -1,0 +1,16 @@
+CCTV-1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+CCTV-2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+CCT3-3音乐,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+CCTV-4国际,http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+CCTV-5体育,https://cctv5alih5c.v.myalicdn.com/live/cdrmcctv5_1md.m3u8
+CCTV-6高清,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+CCTV-7军事农业,http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
+CCTV-8国际,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+CCTV-9纪录,http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
+CCTV-10科教,http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
+CCTV-11戏曲,http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+CCTV-12社会与法,http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
+CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13hd.m3u8
+CCTV-14少儿,http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
+CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+CCTV-5+体育,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
