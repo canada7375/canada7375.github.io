@@ -1,5 +1,5 @@
 
-#EXTINF:-1,CCTV1-综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1综合
 http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 #EXTINF:-1,CCTV2-财经
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
