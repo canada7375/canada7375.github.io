@@ -99,7 +99,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳及国外",无线新闻台
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳",无线新闻台
 http://z1.ubtvfans.com/live/45/766ea7fe49a33cd43dd5a7e8cdabfac5/index.m3u8
 #EXTINF:-1 tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳",无线财经资讯台
 http://z1.ubtvfans.com/live/393/524ac915014b2a36fc8070aa970cc117/index.m3u8
