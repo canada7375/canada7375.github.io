@@ -100,15 +100,33 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳",无线新闻台
-http://z1.ubtvfans.com/live/45/766ea7fe49a33cd43dd5a7e8cdabfac5/index.m3u8
+http://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳",无线财经资讯台
-http://z1.ubtvfans.com/live/393/524ac915014b2a36fc8070aa970cc117/index.m3u8
+http://cdn.hkdtmb.com/hls/85/index.m3u8
 #EXTINF:-1 tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳",有线新闻台
 http://125.89.166.215:80/live-hwcdn.utvlive.top/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736-1.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳",凤凰卫视中文台
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳",凤凰卫视资讯台
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/feicui.png" group-title="港澳",翡翠台
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-name="翡翠华丽台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/feicuihuali.png" group-title="港澳",翡翠华丽台
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mingzhutai.png" group-title="港澳",明珠台
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 tvg-name="TVB剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBjuchang.png" group-title="港澳",TVB剧场
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/index.m3u8?&encrypt=1#http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/index.m3u8?&encrypt=2
+#EXTINF:-1 tvg-name="TVB星河粤语" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBxingheyueyu.png" group-title="港澳",TVB星河粤语
+http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
+#EXTINF:-1 tvg-name="TVB星河国语" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBxingheguoyu.png" group-title="港澳",TVB星河国语
+http://93.190.139.36:8278/streams/d/tvbxinhe_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ViuTV.png" group-title="港澳",ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 tvg-name="ViuTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ViuTV6.png" group-title="港澳",ViuTV6
+http://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1 tvg-name="RHK31" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/RHK31.png" group-title="港澳",RHK31
+https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳",凤凰卫视香港台
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huanyu.png" group-title="台湾",寰宇新闻台
@@ -128,34 +146,40 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8#http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="BBS Buddhist Broadcasting" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBS Buddhist Broadcasting.png" group-title="海外",BBS Buddhist Broadcasting
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="DiscoveryHDWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHDWorld.png" group-title="海外",DiscoveryHDWorld
+https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="海外",NHK
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-name="SKYnews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SKYnews.png" group-title="海外",SKYnews
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
 #EXTINF:-1 tvg-name="索尼动画" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/索尼动画.png" group-title="海外",索尼动画
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-#EXTINF:-1 tvg-name="淘电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/淘电影.png" group-title="4K频道",淘电影
+#EXTINF:-1 tvg-name="淘电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/taodianying.png" group-title="4K频道",淘电影
 http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-#EXTINF:-1 tvg-name="淘娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/淘娱乐.png" group-title="4K频道",淘娱乐
+#EXTINF:-1 tvg-name="淘娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/taoyule.png" group-title="4K频道",淘娱乐
 http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
-#EXTINF:-1 tvg-name="淘萌宠" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/淘萌宠.png" group-title="4K频道",淘萌宠
+#EXTINF:-1 tvg-name="淘萌宠" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/taomengcong.png" group-title="4K频道",淘萌宠
 http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
-#EXTINF:-1 tvg-name="北京IPTV+4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/北京IPTV+4K.png" group-title="4K频道",北京IPTV+4K
+#EXTINF:-1 tvg-name="北京IPTV+4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/beijingIPTV+4K.png" group-title="4K频道",北京IPTV+4K
 http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:-1 tvg-name="北京IPTV+4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/北京IPTV+4K.png" group-title="4K频道",北京IPTV+4K
+#EXTINF:-1 tvg-name="北京IPTV+4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/beijingIPTV+4K.png" group-title="4K频道",北京IPTV+4K
 http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
-#EXTINF:-1 tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/爱上4K.png" group-title="4K频道",爱上4K
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aishang4K.png" group-title="4K频道",爱上4K
 http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
-#EXTINF:-1 tvg-name="纯享4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/纯享4K.png" group-title="4K频道",纯享4K
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/chunxiang4K.png" group-title="4K频道",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/欢笑剧场4K.png" group-title="4K频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huanxiaojuchang4K.png" group-title="4K频道",欢笑剧场4K
 http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
-#EXTINF:-1 tvg-name="4K风光" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/4K风光.png" group-title="4K频道",4K风光
+#EXTINF:-1 tvg-name="4K风光" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/4Kfengguang.png" group-title="4K频道",4K风光
 http://185.228.135.48:8080/tv_home_4k_uhd/index.m3u8
 #EXTINF:-1 tvg-name="LOVE4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LOVE4K.png" group-title="4K频道",LOVE4K
 http://177.20.208.58:8000/play/a03r/index.m3u8
-#EXTINF:-1 tvg-name="4K花园" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/4K花园.png" group-title="4K频道",4K花园
+#EXTINF:-1 tvg-name="4K花园" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/4Khuayuan.png" group-title="4K频道",4K花园
 http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
-#EXTINF:-1 tvg-name="4K花园" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/4K花园.png" group-title="4K频道",4K花园
+#EXTINF:-1 tvg-name="4K花园" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/4Khuayuan.png" group-title="4K频道",4K花园
 http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 #EXTINF:-1 tvg-name="4KCESHI" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/4KCESHI.png" group-title="4K频道",4KCESHI
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
-#EXTINF:-1 tvg-name="广东珠江4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/广东珠江4K.png" group-title="4K频道",广东珠江4K
-http://116.199.5.52:8114/00000000/index.m3u8
+#EXTINF:-1 tvg-name="广东珠江4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/guangdongzhujiang4K.png" group-title="4K频道",广东珠江4K
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
