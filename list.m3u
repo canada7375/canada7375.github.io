@@ -140,7 +140,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="数字付费",华数求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8 
-#EXTINF:-1 tvg-id="Fashion TV New York" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="海外",Fashion TV New York
+#EXTINF:-1 tvg-id="Fashion TV (New York)" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="海外",Fashion TV (New York)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Fashion TV (England)" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="海外",Fashion TV (England)
 https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
