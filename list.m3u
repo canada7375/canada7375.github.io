@@ -109,6 +109,8 @@ http://125.89.166.215:80/live-hwcdn.utvlive.top/live/fe19cd44717842fea90503d10aa
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳",凤凰卫视资讯台
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳",凤凰卫视香港台
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/feicui.png" group-title="港澳",翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-name="翡翠华丽台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/feicuihuali.png" group-title="港澳",翡翠华丽台
@@ -127,8 +129,6 @@ https://cdn.hkdtmb.com/hls/99/index.m3u8
 http://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-name="RHK31" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/RHK31.png" group-title="港澳",RHK31
 https://cdn.hkdtmb.com/hls/31/index.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳",凤凰卫视香港台
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huanyu.png" group-title="台湾",寰宇新闻台
 http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="数字付费",华数求索记录
