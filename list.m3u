@@ -140,9 +140,9 @@ http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="数字付费",华数求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8 
-#EXTINF:-1 tvg-id="海外" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="海外",Fashion TV (England)
+#EXTINF:-1 tvg-id="Fashion TV (England)" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="海外",Fashion TV (England)
 https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="海外" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="海外",NHK World
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="海外",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-name="Arirang" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Arirang.png" group-title="海外",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8#http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
