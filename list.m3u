@@ -41,7 +41,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
-#EXTINF:-1,上海卫视高清
+#EXTINF:-1 tvg-id="上海卫视高清" tvg-name="上海卫视高清" tvg-logo="shanghai.png" group-title="卫视",上海卫视高清
 http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
@@ -111,21 +111,21 @@ http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳",凤凰卫视香港台
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/feicui.png" group-title="港澳",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳",#EXTINF-1 tvg-name="翡翠台" 
 https://cdn.hkdtmb.com/hls/81/index.m3u8
-#EXTINF:-1 tvg-name="翡翠华丽台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/feicuihuali.png" group-title="港澳",翡翠华丽台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳",#EXTINF-1 tvg-name="翡翠华丽台
 http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mingzhutai.png" group-title="港澳",明珠台
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳",#EXTINF-1 tvg-name="明珠台" 
 https://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-name="TVB剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBjuchang.png" group-title="港澳",TVB剧场
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/index.m3u8?&encrypt=1#http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/index.m3u8?&encrypt=2
-#EXTINF:-1 tvg-name="TVB星河粤语" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBxingheyueyu.png" group-title="港澳",TVB星河粤语
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳",#EXTINF-1 tvg-name="TVB星河
 http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
-#EXTINF:-1 tvg-name="TVB星河国语" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBxingheguoyu.png" group-title="港澳",TVB星河国语
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳",#EXTINF-1 tvg-name="TVB星河
 http://93.190.139.36:8278/streams/d/tvbxinhe_twn/playlist.m3u8
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ViuTV.png" group-title="港澳",ViuTV
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳",#EXTINF-1 tvg-name="ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
-#EXTINF:-1 tvg-name="ViuTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ViuTV6.png" group-title="港澳",ViuTV6
+#EXTINF:-1 tvg-id="ViuTV 6" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳",#EXTINF-1 tvg-name="ViuTV
 http://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="RTHKGangTaiDianShi31.hk" tvg-country="HK" tvg-language="" tvg-logo="http://tv.sason.xyz/logo/rthk31.png" group-title="港澳",RTHK (港台電視31) (1080p)
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
