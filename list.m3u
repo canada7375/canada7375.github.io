@@ -182,13 +182,13 @@ https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="北京IPTV+4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/beijingIPTV+4K.png" group-title="4K频道",北京IPTV+4K
 http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:-1 tvg-name="北京IPTV+淘电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/taodianying.png" group-title="4k频道",北京IPTV+淘电影
+#EXTINF:-1 tvg-name="北京IPTV+淘电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/taodianying.png" group-title="4K频道",北京IPTV+淘电影
 http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-#EXTINF:-1 tvg-name="北京IPTV+淘娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/taoyule.png" group-title="4k频道",北京IPTV+淘娱乐
+#EXTINF:-1 tvg-name="北京IPTV+淘娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/taoyule.png" group-title="4K频道",北京IPTV+淘娱乐
 http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
-#EXTINF:-1 tvg-name="北京IPTV+萌宠TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mengchongTV.png" group-title="4k频道",北京IPTV+萌宠TV
+#EXTINF:-1 tvg-name="北京IPTV+萌宠TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mengchongTV.png" group-title="4K频道",北京IPTV+萌宠TV
 http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
-#EXTINF:-1 tvg-name=爱上4K"" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aishang4k.png" group-title="4k频道",爱上4K
+#EXTINF:-1 tvg-name=爱上4K"" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aishang4k.png" group-title="4K频道",爱上4K
 http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/chunxiang4K.png" group-title="4K频道",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
