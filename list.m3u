@@ -86,7 +86,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5a1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=114&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+http://39.134.65.162/PLTV/88888888/224/3221225530/index.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
@@ -108,7 +108,7 @@ http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.
 #EXTINF:-1 tvg-name="北京IPTV+萌宠TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mengchongTV.png" group-title="4K频道",北京IPTV+萌宠TV
 http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
 #EXTINF:-1 tvg-name=爱上4K"" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aishang4k.png" group-title="4K频道",爱上4K
-http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
+http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/chunxiang4K.png" group-title="4K频道",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huanxiaojuchang4K.png" group-title="4K频道",欢笑剧场4K
