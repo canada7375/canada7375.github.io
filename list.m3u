@@ -123,7 +123,7 @@ http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 http://93.190.139.36:8278/streams/d/tvbxinhe_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳",ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV 6
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳",ViuTV 6
 http://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="RTHK (港台電視31)" tvg-name="gangtaidianshi 31" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/RTHK (港台電視31).png" group-title="港澳",RTHK (港台電視31) (1080p)
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
