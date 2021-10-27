@@ -190,15 +190,15 @@ http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="数字付费",华数求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8 
-#EXTINF:-1 tvg-id="Fashion TV (New York)" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="海外",Fashion TV (New York)
+#EXTINF:-1 tvg-id="Fashion TV (New York)" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="海外",法国时尚电视台.Fashion TV (New York)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Fashion TV (England)" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="海外",Fashion TV (England)
+#EXTINF:-1 tvg-id="Fashion TV (England)" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="海外",法国时尚电视台.Fashion TV (England)
 https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Fashion TV (England)" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="海外",Fashion TV 
+#EXTINF:-1 tvg-id="Fashion TV (England)" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="海外",法国时尚电视台.Fashion TV 
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-id="VevoPopEurope.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Me1wLzi.jpg" group-title="海外",Vevo Pop Europe (1080p)
+#EXTINF:-1 tvg-id="VevoPopEurope.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Me1wLzi.jpg" group-title="海外",美国.Vevo Pop Europe (1080p)
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-#EXTINF:-1 tvg-id="VevoLatino.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="海外",Vevo Latino (1080p)
+#EXTINF:-1 tvg-id="VevoLatino.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="海外",美国.Vevo Latino (1080p)
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF:-1 tvg-id="[美国]NBC5(KSDK)" tvg-name="[美国]NBC5(KSDK)" tvg-logo="https://i.imgur.com/aDqnu8Y.jpg" group-title="海外",美国.美国全国广播公司.NBC 5(KSDK)
 https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8
@@ -206,20 +206,20 @@ https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8
 https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="WFMY.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ps6uQSW.jpg" group-title="海外",美国.哥伦比亚.CBS 2 Greensboro NC (WFMY) (1080p)
 https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="海外",SKYnews
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="海外",英国.天空新闻台.SKYnews
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
-#EXTINF:-1 tvg-id="NHK World" tvg-name="NHKWorld" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="海外",NHK World
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="海外",NHK
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="海外",Arirang TV[1920*1080]
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8#http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg" group-title="海外",france24 FHD                                                                                                      France 24
+#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg" group-title="海外",法国.法国24电视台.france24 FHD                                                                                                      France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHKWorld" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="海外",日本.NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="海外",日本.NHK中文
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-name="Animax Japan" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="海外",日本.sony.Animax Japan (English Subs) (1080p)
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="海外",韩国.阿里郎电视台.Arirang TV[1920*1080]
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8#http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-name="KBC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KBC.png" group-title="海外",KBC
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Animax Japan" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="海外",Animax Japan (English Subs) (1080p)
-https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TMA Caraïbes.png" group-title="海外",TMA Caraïbes
 http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="地理发现", 探索频道
