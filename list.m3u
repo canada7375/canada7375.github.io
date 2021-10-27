@@ -200,8 +200,14 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 #EXTINF:-1 tvg-id="VevoLatino.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="海外",Vevo Latino (1080p)
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1 tvg-id="[美国]NBC5(KSDK)" tvg-name="[美国]NBC5(KSDK)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NBC5.png" group-title="海外",[美国]NBC5(KSDK)
-https://livevideo01.ksdk.com/hls/live/2014965/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="[美国]NBC5(KSDK)" tvg-name="[美国]NBC5(KSDK)" tvg-logo="https://i.imgur.com/aDqnu8Y.jpg" group-title="海外",美国.美国全国广播公司.NBC 5(KSDK)
+https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8
+#EXTINF:-1 tvg-id="WOI.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1jA3nKg.jpg" group-title="海外",美国.美国广播公司.ABC 5 Des Moines IA (WOI) (1080p)
+https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="WFMY.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ps6uQSW.jpg" group-title="海外",美国.哥伦比亚.CBS 2 Greensboro NC (WFMY) (1080p)
+https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="海外",SKYnews
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
 #EXTINF:-1 tvg-id="NHK World" tvg-name="NHKWorld" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="海外",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="海外",NHK
@@ -212,8 +218,6 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chu
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-name="KBC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KBC.png" group-title="海外",KBC
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="海外",SKYnews
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
 #EXTINF:-1 tvg-name="Animax Japan" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="海外",Animax Japan (English Subs) (1080p)
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TMA Caraïbes.png" group-title="海外",TMA Caraïbes
@@ -292,6 +296,8 @@ http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="体育",魅力足球
 http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="体育",澳大利亚Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="体育",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="体育",Abu Dhabi Sports 2
