@@ -200,7 +200,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 #EXTINF:-1 tvg-id="VevoLatino.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="海外",Vevo Latino (1080p)
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1 tvg-id="[美国]NBC5(KSDK)" tvg-name="[美国]NBC5(KSDK)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="海外",[美国]NBC5(KSDK)
+#EXTINF:-1 tvg-id="[美国]NBC5(KSDK)" tvg-name="[美国]NBC5(KSDK)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NBC5.png" group-title="海外",[美国]NBC5(KSDK)
 https://livevideo01.ksdk.com/hls/live/2014965/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="NHK World" tvg-name="NHKWorld" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="海外",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
