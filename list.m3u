@@ -131,6 +131,8 @@ http://livetv.dnsfor.me:80/channel.10.m3u8
 http://livetv.dnsfor.me:80/channel.11.m3u8
 #EXTINF:-1 tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳",有线新闻台
 http://125.89.166.215:80/live-hwcdn.utvlive.top/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736-1.m3u8
+#EXTINF:-1 tvg-id="iModeTV.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://atv-cdn.hkatv.vip/images/16092183621189118679.png" group-title="港澳",iMode TV (1080p)
+https://juyunlive.juyun.tv/live/24950198.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳",凤凰卫视中文台
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳",凤凰卫视资讯台
