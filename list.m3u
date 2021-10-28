@@ -200,14 +200,20 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 #EXTINF:-1 tvg-id="VevoLatino.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="海外",美国.Vevo Latino (1080p)
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1 tvg-id="[美国]NBC5(KSDK)" tvg-name="[美国]NBC5(KSDK)" tvg-logo="https://i.imgur.com/aDqnu8Y.jpg" group-title="海外",美国.美国全国广播公司.NBC 5(KSDK)
-https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8
+#EXTINF:-1 tvg-id="[美国]NBC News Now" tvg-name="[美国]NBC News Now" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="海外",美国.美国全国广播公司.NBC News Now.实时新闻 (1080p)
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 tvg-id="KWESTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qshcBQk.jpg" group-title="海外",美国.美国全国广播公司.NBC NewsWest 9.西方新闻 Midland-Odessa TX (KWES) (1080p)
+https://livevideo01.newswest9.com/hls/live/2017380/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="WOI.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1jA3nKg.jpg" group-title="海外",美国.美国广播公司.ABC 5 Des Moines IA (WOI) (1080p)
 https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="WFMY.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ps6uQSW.jpg" group-title="海外",美国.哥伦比亚.CBS 2 Greensboro NC (WFMY) (1080p)
 https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="海外",美国.HBO Family East (1080p)
+#EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="海外",美国.HBO Family East.东方家庭 (1080p)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="",HBO Hits.精选 (1080p)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="",HBO Signature East.东方签名 (1080p)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="海外",英国.天空新闻台.SKYnews
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg" group-title="海外",法国.法国24电视台.france24 FHD                                                                                                      France 24
