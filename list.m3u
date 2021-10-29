@@ -100,7 +100,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
 #EXTINF:-1 tvg-id="Fashion TV UHD " tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="4K频道",Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="北京IPTV+4K" tvg-logo="https://www.hualigs.cn/image/6153d99a320ac.jpg" group-title="4K频道",北京IPTV+4K
-http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 tvg-name="北京IPTV+淘电影" tvg-logo="https://www.hualigs.cn/image/6153d999eb3a6.jpg" group-title="4K频道",北京IPTV+淘电影
 http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 tvg-name="北京IPTV+淘娱乐" tvg-logo="https://www.hualigs.cn/image/6153d99a421ec.jpg" group-title="4K频道",北京IPTV+淘娱乐
@@ -300,10 +300,6 @@ https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="体育",新视觉HD
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",百事通体育
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hdnba5/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",咪咕视频
-http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育",劲爆体育
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="体育",魅力足球
