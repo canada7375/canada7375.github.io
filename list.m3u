@@ -156,7 +156,7 @@ https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳",ViuTV 6
 http://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="RTHK (港台電視31)" tvg-name="gangtaidianshi 31" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/RTHK (港台電視31).png" group-title="港澳",RTHK (港台電視31) (1080p)
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="台湾",台视新闻
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="ZhongShiXingWen.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_news.png" group-title="台湾",中視新聞 (1080p)
@@ -208,6 +208,8 @@ https://livevideo01.newswest9.com/hls/live/2017380/newscasts/live.m3u8
 https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="WFMY.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ps6uQSW.jpg" group-title="海外",美国.哥伦比亚.CBS 2 Greensboro NC (WFMY) (1080p)
 https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="FOX News Now" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FOX News Now.jpg" group-title="海外",美国.福克斯.FOX News Now 
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="海外",美国.HBO Family East.东方家庭 (1080p)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="HBOHits.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="海外",HBO Hits.精选 (1080p)
@@ -316,6 +318,10 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="体育",澳大利亚.Red Bull TV.红牛 (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="731" tvg-name="Harley Davidson Factory TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Harley Davidson Factory TV.png" group-title="体育",美国.Harley Davidson Factory TV.哈雷戴维森工厂电视
+https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
+#EXTINF:-1 tvg-id="731" tvg-name="Harley Davidson TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Harley Davidson TV.png" group-title="体育",美国.Harley Davidson TV.哈雷戴维森电视
+https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="体育",阿联酋.Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="体育",阿联酋.Abu Dhabi Sports 2
