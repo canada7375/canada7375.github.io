@@ -201,6 +201,8 @@ http://seb.sason.top/sc/ztxw_fhd.m3u8
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾",寰宇新闻
 http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="中文" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ ChannelLogo/Pos/322_300.png" group-title="台湾",天映频道
+http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="数字付费",CHC高清电影
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="数字付费",CHC家庭影院
@@ -275,34 +277,16 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chu
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TMA Caraïbes.png" group-title="海外",TMA Caraïbes
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="地理发现", 探索频道
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Dis
 http://10.0.0.220/rtmp/discovery/live.m3u8
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title= “地理发现”，国家地理
-http://10.0.0.220/rtmp/natlgeo/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/si/DiscoveryChannel.si.png" group-title="地理发现", 探索世界
-http://178.175.132.170:8888/02_DiscoveryHDWorld/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/si/DiscoveryChannel.si.png" group-title="地理发现", 探索渠道
-http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/si/DiscoveryChannel.si.png" group-title="地理发现", 探索高清
-http://hbox.cdnss.me:80/live/bestcs/bestcs/1249.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/ca/DiscoveryScience.ca.png" group-title="地理发现",DiscoveryScience
-http://hbox.cdnss.me:80/live/bestcs/bestcs/1245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/ae/NationalGeographicAbuDhabi.ae.png" group-title="地理发现",地理阿布扎比
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HuntChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title ="地理发现",Hunt Channel (1080p)
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LXpqmgn.jpg" group-title ="地理发现",Love Nature (1080p)
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/fr/PlanetPlus.fr.png" group-title="地理发现",Planete+高清
-http://hbox.cdnss.me:80/live/bestcs/bestcs/2044.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="地理发现", 动物星球
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="地理发现", 动物星球
-http://31.220.41.88:8081/live/us-animal.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/us/NatGeo.us.png" group-title="地理发现",地理
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/ae/NationalGeographicAbuDhabi.ae.png" group-title="地理发现",地理阿布扎比
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/us/NatGeo.us.png" group-title="地理发现",geographic 2
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/ca/LoveNature.ca.png" group-title="地理发现",Love自然
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/ca/LoveNature.ca.png" group-title="地理发现",Nature直播 - 动物直播
@@ -323,8 +307,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地理发现",Nature Live - Tropics Liv
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地理发现",Nature Live - Waterfalls 
-https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_393923737373737373c373c373c373c8c38c38c38c38c38c38c38c38c38c38c38c38c38c38c38c38c9571f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd8415a84e31bd152fe9c6c9905c.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/rs/Nasa.rs.png" group-title="地理发现",NASA电视公众
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/rs/Nasa.rs.png" group-title="地理发现",NASA电视媒体
@@ -333,8 +315,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地理发现",NATURE TV2
 https://stmv1.srvif.com/nattv/nattv/chunklist_w1358547370.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/mu/Histoire.mu.png" group-title="地理发现",Histoire
-http://hbox.cdnss.me:80/live/bestcs/bestcs/3403.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地理发现",Local Now Discover
 https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育",五星体育
