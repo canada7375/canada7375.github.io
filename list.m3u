@@ -37,8 +37,6 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 http://121.18.168.210/livetestcdn.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV5+体育赛事
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="央视频道",冬奥纪实
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226011/1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视频道",浙江卫视
