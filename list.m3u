@@ -135,7 +135,7 @@ http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
 #EXTINF:-1 tvg-id="Fashion TV UHD " tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="4K频道",Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/chunxiang4K.png" group-title="4K频道",纯享4K
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/chunxiang4K.png" group-title="4K频道",纯享4K
 http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-name="北京IPTV+4K" tvg-logo="https://www.hualigs.cn/image/6153d99a320ac.jpg" group-title="4K频道",北京IPTV+4K
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
@@ -203,7 +203,7 @@ https://cdn.hkdtmb.com/hls/82/index.m3u8
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳频道",ViuTV 6
 http://cdn.hkdtmb.com/hls/96/index.m3u8
-#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="港澳",香港国际财经 FHD
+#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="港澳频道",香港国际财经 FHD
 https://cdn.hkdtmb.com/hls/76/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/rthk31.png" group-title="港澳频道",RTHK (港台电视31) (1080p)
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
