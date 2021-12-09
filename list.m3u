@@ -298,7 +298,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5421f71da6af422839419cb3" tvg-chno="209" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="海外频道",美国.CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 MAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="VoA TV" tvg-country="US" tvg-language="English" tvg-logo="" group-title="海外频道",美国.美国之音.VoA TV 
+#EXTINF:-1 tvg-id="VoATV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="海外频道",美国.美国之音.VoA TV (1080p)
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="海外频道",美国.HBO Family East.东方家庭 (1080p)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
@@ -334,7 +334,7 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chu
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TMA Caraïbes.png" group-title="海外频道",TMA Caraïbes
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 tvg-name="Global Fashion Channel" tvg-logo="" group-title="海外频道",Global Fashion Channel (1080p)
+#EXTINF:-1 tvg-id="GlobalFashionChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/s4eGYEP.jpg" group-title="海外频道",Global Fashion Channel (1080p)
 https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Dis
 http://10.0.0.220/rtmp/discovery/live.m3u8
