@@ -207,8 +207,8 @@ http://iptv.tvfix.org/hls/financenhk.m3u8
 http://anan.jxin122.top/cj.php?id=62&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiandianying.png" group-title="港澳频道",有线电影
 http://link.sczhgx.com:14819/hls/40/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiantiyu.png" group-title="港澳频道",有线体育
-http://link.sczhgx.com:14819/hls/35/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/05/I-CABLE_Sports_Channel.png" group-title="港澳频道",有线体育
+rtmp://59.124.75.157/sat/hk011
 #EXTINF:-1 tvg-id="126" tvg-name="TVB翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳频道",TVB翡翠台 FHD
 http://iptv.tvfix.org/hls/jadenhk.m3u8
 #EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="港澳频道",TVB经典台
@@ -241,7 +241,7 @@ http://anan.jxin122.top/cj.php?id=94&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc5
 http://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="港澳频道",香港国际财经 FHD
 https://cdn.hkdtmb.com/hls/76/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/rthk31.png" group-title="港澳频道",RTHK (港台电视31) (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png" group-title="港澳频道",RTHK (港台电视31) (1080p)
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1 tvg-id="ZhongTianXingWen.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="台湾频道",中天新聞 (1080p)
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv009
