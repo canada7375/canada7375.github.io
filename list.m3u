@@ -102,7 +102,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视频道",新疆卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="地方频道",上海新闻综合 (1080p)
-http://112.25.48.68/live/program/live/xwzhhd/4000000/mnf.m3u8
+http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_jjvktrlp_key70942A545F9B15204B8A627E4B89AF87E7321322C9333C903DF0349FEC4A92387160DA9782626EBFA58DBFE811894273A2F7D898DA9CE9AB8E07447212865CE9291E736305F03C077C61A55F9589AFADFFDBDCAB647448B7D2968557828C1A9FAE1E554D03A0A51F0ACC8D74F3097C5F_/live/xwzhhd/4000000/d1.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方频道",上海第一财经 (1080p)
 http://112.25.48.68/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方频道",上海都市 (1080p)
@@ -236,7 +236,7 @@ http://iptv.tvfix.org/hls/pearl.m3u8
 #EXTINF:-1 group-title="港澳" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳频道",J2 FHD
 http://iptv.tvfix.org/hls/j2.m3u8
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳频道",ViuTV
-http://anan.jxin122.top/cj.php?id=94&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+http://iptv.tvfix.org/hls/viutv.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳频道",ViuTV 6
 http://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="港澳频道",香港国际财经 FHD
@@ -244,13 +244,13 @@ https://cdn.hkdtmb.com/hls/76/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png" group-title="港澳频道",RTHK (港台电视31) (1080p)
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1 tvg-id="ZhongTianXingWen.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="台湾频道",中天新聞 (1080p)
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv009
+http://iptv.tvfix.org/hls/ztxw.m3u8
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾频道",三立新闻
 http://211.23.114.106:8520/http/61.221.81.94:8088/hls/65/807/ch18.m3u8?token=
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="台湾频道",TVBS新闻台
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾频道",东森新闻
-rtmp://45.88.148.178/channel/6100144cf0618408855f36e1
+http://iptv.tvfix.org/hls/dsxw.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台湾频道",民视新闻台
 http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 tvg-id="7134" tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="台湾频道",民视台湾
