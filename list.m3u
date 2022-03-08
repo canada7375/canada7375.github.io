@@ -375,7 +375,7 @@ https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="海外频道",英国.天空新闻台.SKYnews
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="https://www.hualigs.cn/image/61556780f381e.jpg" group-title="海外频道",英国.BBC World News HD
-http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+http://iptv.tvfix.org/hls/bbcnews.m3u8
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/IVUgJPY.png" group-title="海外频道",英国黄貂鱼音乐会.Qello Concerts by Stingray (1080p) 
 https://csm-e-stv.tls1.yospace.com/csm/live/211935407.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg" group-title="海外频道",法国.法国24电视台.france24 FHD                                                                                                      France 24
